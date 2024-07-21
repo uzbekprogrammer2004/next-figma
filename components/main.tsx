@@ -1,6 +1,6 @@
 import React from 'react';
 import Img from '@/public/main4.png';
-import Photo from '@/public/photo.png';
+import Photo2 from '@/public/photo2.png';
 import Img2 from '@/public/Mainimg.png';
 import Image from 'next/image';
 
@@ -100,7 +100,7 @@ const Index = () => {
                 </div>
             </div>
             <div className="w-[100%] h-[430px] p-[60px] bg-zinc-800 justify-center items-center gap-20 inline-flex">
-            <Image className="w-[250px] h-[250px] rounded-[5px]" src={Photo} alt='Main img' />
+            <Image className="w-[250px] h-[250px] rounded-[5px]" src={Photo2} alt='Main img' />
                 <div className="w-[425px] flex-col justify-start items-start gap-10 inline-flex">
                     <div className="self-stretch h-[172px] flex-col justify-start items-start gap-2.5 flex">
                         <div className="self-stretch text-white text-[38px] font-semibold font-['Work Sans'] capitalize leading-[45.60px]">Join our weekly digest</div>
