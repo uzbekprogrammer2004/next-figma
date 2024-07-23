@@ -1,6 +1,6 @@
 import React from 'react';
 import Img from '@/public/main4.png';
-import Photo2 from '@/public/photo2.png';
+import Photo2 from '@/public/Photo.png';
 import Img2 from '@/public/Mainimg.png';
 import Image from 'next/image';
 
